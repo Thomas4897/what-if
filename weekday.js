@@ -17,5 +17,5 @@ if (num === 1) {
 } else if (num === 7) {
 	console.log("It is Sunday");
 } else {
-	console.log("Error Invalid Number.");
+	console.log("Error: Invalid Number.");
 }
